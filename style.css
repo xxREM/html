@@ -1,0 +1,64 @@
+body {
+    font-family: arial, helvetica, sans-serif;
+    font-size: 15px;
+    color: silver;
+    background: white url(https://wallpaperplay.com/walls/full/6/3/7/60336.jpg) 100% center;
+}
+
+/* This is a comment, by the way */
+
+p {
+    line-height: 18px;
+}
+
+h1 {
+    color: silver;
+    background-color: rgb(73, 63, 63);
+    margin: 10px 300px;
+    padding: 4px;
+    font-style: italic bolder 42px 68px Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    letter-spacing: 0.15em;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-transform: capitalize;
+    border-bottom: 0.20em rgb(58, 58, 58) double
+    
+}
+
+h2 {
+    color: white;
+    background-color: rgb(70, 70, 70);
+    font-size: 1.5em;
+    margin: 0;
+    padding: 2px;
+    padding-left: 30px;
+
+}
+
+h3 {
+    color: lightgray;
+    font-size: 1.33em;
+}
+
+img {
+    border: 2px snow solid;
+}
+
+a {
+    text-decoration: underline;
+    background-color: lightgrey;
+}
+
+strong {
+    font-style: italic;
+    text-transform: uppercase;
+}
+
+li {
+    color: silver;
+    font-style: italic;
+}
+
+table {
+    background-color: darkslategrey;
+}
